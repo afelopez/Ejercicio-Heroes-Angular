@@ -2,15 +2,15 @@
 import { Hero } from './hero';
 // Genera una constante "inmodificable" del objeto Hero
 export const HEROES: Hero[] = [
-  { id: 0, name: 'Mr. Raki' },
-  { id: 1, name: 'Mr. Nice' },
-  { id: 2, name: 'Narco' },
-  { id: 3, name: 'Bombasto' },
-  { id: 4, name: 'Celeritas' },
-  { id: 5, name: 'Magneta' },
-  { id: 6, name: 'RubberMan' },
-  { id: 7, name: 'Dynama' },
-  { id: 8, name: 'Dr IQ' },
-  { id: 9, name: 'Magma' },
-  { id: 0, name: 'Tornado' }
+  { id: 1, name: 'Mr. Raki' },
+  { id: 2, name: 'Mr. Nice' },
+  { id: 3, name: 'Narco' },
+  { id: 4, name: 'Bombasto' },
+  { id: 5, name: 'Celeritas' },
+  { id: 6, name: 'Magneta' },
+  { id: 7, name: 'RubberMan' },
+  { id: 8, name: 'Dynama' },
+  { id: 9, name: 'Dr IQ' },
+  { id: 10, name: 'Magma' },
+  { id: 11, name: 'Tornado' }
 ];
